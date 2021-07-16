@@ -2,6 +2,16 @@
 
 A simple typing speed test application
 
+# Preview
+
+<img width="1403" alt="Screenshot 2021-07-16 at 11 56 39 AM" src="https://user-images.githubusercontent.com/33785332/125902509-02f448d7-499c-4fce-8929-9f77d67a7fe0.png">
+<img width="1402" alt="Screenshot 2021-07-16 at 11 57 01 AM" src="https://user-images.githubusercontent.com/33785332/125902529-12ddd9da-9619-484a-b18b-a513adf3bbff.png">
+
+
+# Github page link to flashtype app:
+
+https://aspiringananya.github.io/nameit/
+
 ## Libraries used
 
 https://www.npmjs.com/package/typewriter-effect
