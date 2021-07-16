@@ -10,7 +10,7 @@ A simple typing speed test application
 
 # Github page link to flashtype app:
 
-https://aspiringananya.github.io/nameit/
+https://aspiringananya.github.io/flashtype/
 
 ## Libraries used
 
